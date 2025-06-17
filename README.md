@@ -9,6 +9,7 @@ O aplicativo permite que o usuário:
 3.Contribua para um meio ambiente mais limpo por meio da educação ambiental e usabilidade simples
 
 Tecnologias utilizadas:
+
 1.Android Studio (Java/Kotlin)
 
 2.Firebase Firestore para armazenamento de dados
