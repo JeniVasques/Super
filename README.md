@@ -10,5 +10,7 @@ O aplicativo permite que o usuário:
 
 Tecnologias utilizadas:
 1.Android Studio (Java/Kotlin)
+
 2.Firebase Firestore para armazenamento de dados
+
 3.Google Maps API para exibição de rotas e localização
